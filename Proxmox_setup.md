@@ -1,18 +1,5 @@
 <ins>Table of contents</ins>
 - [Proxmox setup instructions](#proxmox-setup)
-  - [step 1](###step1)
-  - [step 2](###step2)
-  - [step 3](###step3)
-  - [step 4](###step4)
-  - [step 5](###step5)
-  - [step 6](###step6)
-  - [step 7](###step7)
-  - [step 8](###step8)
-  - [step 9](###step9)
-  - [step 10](###step10)
-  - [step 11](###step11)
-  - [step 12](###step12)
-  - [step 13](###step13)
 - [NAS Info](#nfs-share-setup)
 - [Proxmox Error](#Proxmox-issues-with-Permission-denied-invalid-PVE-ticket-401)
 
